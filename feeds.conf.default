@@ -14,6 +14,6 @@ src-git small https://github.com/kenzok8/small
 src-git opentopd  https://github.com/sirpdboy/sirpdboy-package.git
 #src-git packageso https://git.openwrt.org/feed/packages.git;openwrt-21.02
 #src-git luci2 https://git.openwrt.org/project/luci.git;openwrt-21.02
-#src-git routing2 https://git.openwrt.org/feed/routing.git;openwrt-21.02
-#src-git telephony2 https://git.openwrt.org/feed/telephony.git;openwrt-21.02
+src-git routing2 https://git.openwrt.org/feed/routing.git;openwrt-21.02
+src-git telephony2 https://git.openwrt.org/feed/telephony.git;openwrt-21.02
 #src-git custom https://github.com/garypang13/openwrt-packages.git
